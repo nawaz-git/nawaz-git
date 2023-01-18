@@ -61,7 +61,7 @@ unique needs of your business. I am excited to contribute my passion and skills 
 ## Connect with me  
 <div align="center">
   <a href="mailto:contact@nawazpasha.tech"><img src="https://img.icons8.com/ios-filled/50/000000/secured-letter--v1.png"/></a>
-  <a href="https://www.linkedin.com/in/nawaz-pasha-335321192">LinkendIn</a>
+  <a href="https://www.linkedin.com/in/nawaz-pasha-335321192"><img src="https://i.ibb.co/tcgBbFM/icons8-linkedin-circled-50.png" height='50'></a>
 </div>  
   
 
