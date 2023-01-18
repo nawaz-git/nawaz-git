@@ -60,9 +60,9 @@ unique needs of your business. I am excited to contribute my passion and skills 
 
 ## Connect with me  
 <div align="center">
-  <a href="mailto:contact@nawazpasha.tech"><img src="https://i.ibb.co/xq6R3PP/icons8-secured-letter-50.png" height='40'/></a>
+  <a href="mailto:contact@nawazpasha.tech" target="_blank"><img src="https://i.ibb.co/xq6R3PP/icons8-secured-letter-50.png" height='40'/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nawaz-pasha-335321192"><img src="https://i.ibb.co/tcgBbFM/icons8-linkedin-circled-50.png" height='40'></a>
+  <a href="https://www.linkedin.com/in/nawaz-pasha-335321192" target="_blank" ><img src="https://i.ibb.co/tcgBbFM/icons8-linkedin-circled-50.png" height='40'></a>
 </div>  
   
 
