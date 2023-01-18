@@ -1,5 +1,8 @@
 # <div align="center">I'm Nawaz, a full-stack enthusiastic developer 👨‍💻</div>  
-<div align="center">🔭 I’m currently working on growOn ( Edu-Tech Startup).  </div>  
+<div align="center">🔭 I am a skilled Frontend Engineer with a Bachelor's in Computer Applications and 3+ years of experience in
+web development. I am familiar with Agile/Sprint models and have expertise in Angular, Vue3, and React. I
+am confident in my ability to deliver high-performing and visually-appealing user interfaces that meet the
+unique needs of your business. I am excited to contribute my passion and skills to your organization. </div>  
 <br/>  
 
 
